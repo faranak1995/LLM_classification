@@ -32,3 +32,6 @@ cd LLM-with-Python-Tutorial
 ```
 pip install -r requirements.txt
 ```
+ ## License
+ This project is licensed under the MIT License - see the [LICENSE.md](https://license.md/licenses/mit-license/) file for details.
+
