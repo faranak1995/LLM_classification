@@ -23,12 +23,12 @@ Additionally, you should have some familiarity with Python programming and machi
 ## Installation
 To get started, follow these installation steps:
 1. Clone the repository:
-'''
+```
 git clone https://github.com/your-username/LLM-with-Python-Tutorial.git
 cd LLM-with-Python-Tutorial
-'''
+```
 
 2. Install the required Python libraries: Use pip to install the dependencies:
-'''
+```
 pip install -r requirements.txt
-'''
+```
